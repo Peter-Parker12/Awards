@@ -10,6 +10,6 @@
    - Qentinel - Oriental and Foundation courses
 
 ### Contact me via:
-[Facebook](https://www.facebook.com/Parker132/)
-[Email](hongquantran.FPT@gmail.com)
+ - Facebook: [Tran Quan](https://www.facebook.com/Parker132/)
+ - Email: [hongquantran.FPT@gmail.com](hongquantran.FPT@gmail.com)
 ### © 2021 PeterParker-12
