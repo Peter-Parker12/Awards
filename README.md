@@ -12,4 +12,5 @@
 ### Contact me via:
  - Facebook: [Tran Quan](https://www.facebook.com/Parker132/)
  - Email: [hongquantran.FPT@gmail.com](https://mail.google.com/mail/u/3/?ogbl#inbox)
+ - LinkedIn: [Hong Quan](https://www.linkedin.com/in/tran-quan-447752151/)
 ### © 2021 PeterParker-12
