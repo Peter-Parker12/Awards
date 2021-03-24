@@ -1,5 +1,5 @@
 # Welcome to Tran Hong Quan (Parker) personal vault
-##In this repository, you will find:
+## In this repository, you will find:
 - Personal Java Web projects
    - The projects are mainly aimed at apply the knowledge of MVC Model into practice
    - Styling are not considered for this projects
@@ -9,7 +9,7 @@
    - Coursera - Web Application for Everybody specialization
    - Qentinel - Oriental and Foundation courses
 
-###Contact me via:
+### Contact me via:
 [Facebook](https://www.facebook.com/Parker132/)
 [Email](hongquantran.FPT@gmail.com)
-###© 2021 PeterParker-12
+### © 2021 PeterParker-12
