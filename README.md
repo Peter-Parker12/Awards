@@ -3,6 +3,8 @@
 - Personal Java Web projects
    - The projects are mainly aimed at apply the knowledge of MVC Model into practice
    - Styling are not considered for this projects
+- Personal Junit Testing project
+   - The project's purpose is to demonstrate the user of Junit testing 
 - Personal certificates and Achievements
    - Microsoft - Virtual experience program's certificate of completion
    - Cousera - Software Development Lifecycle specialization
